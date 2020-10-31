@@ -1,5 +1,6 @@
-
+<!-- this is a css document -->
 body{
+    <!-- css for body -->
     margin:2%;
     background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("bgimg2.jpg");
     background-repeat: no-repeat;
@@ -129,6 +130,7 @@ position: static;
 padding: 0px 10px 5px 10px;
 }
 h3{
+    <!-- css for h3 tag -->
     font-size:250%;
     color:white;
     text-shadow: 0 0 5px black, 0 0 5px white;
